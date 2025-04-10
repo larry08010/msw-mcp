@@ -1,0 +1,10 @@
+{
+  "name": "msw-mcp",
+  "version": "0.1.0",
+  "description": "Cli & MCP server for msw (Mock Service Worker) for  AI Agents with dynamic mocking",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
